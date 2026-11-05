@@ -7,7 +7,9 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egis-nandini-6534b53b3)
-[![Google Student Ambassador](https://img.shields.io/badge/Google-Student_Ambassador_Batch_2-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.linkedin.com/in/egis-nandini-6534b53b3)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/egis_nandini)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egisnandini675@gmail.com)
+[![GSA](https://img.shields.io/badge/Google-Student_Ambassador_Batch_2-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.linkedin.com/in/egis-nandini-6534b53b3)
 [![Location](https://img.shields.io/badge/Location-Kerinci%2C_Indonesia-10B981?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
 </div>
