@@ -17,9 +17,13 @@
 ### 🌟 About Me
 
 •⁠  ⁠🎓 *Undergraduate Accounting Student* at STIE Sakti Alam Kerinci, focusing on financial reporting transparency and data-driven analysis.
+
 •⁠  ⁠🚀 *Google Student Ambassador (Batch 2)* advocating for gen-AI productivity and youth digital literacy in regional communities.
+
 •⁠  ⁠📊 *Applied Researcher*, presenting empirical financial analysis and SmartPLS research at the 8th JEBAC International Conference.
+
 •⁠  ⁠✂️ *Founder & Creative Tailor* of Rumah jahit Astro EG, transforming custom garment construction with pattern drafting and precision craftsmanship.
+
 •⁠  ⁠💡 *AI Power-User*, actively implementing Gemini Live, Canvas, Deep Research, and NotebookLM for academic workflows.
 
 ---
@@ -39,10 +43,10 @@
 
 ### 📈 GitHub Highlights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egisnandini675-max&show_icons=true&theme=radical&hide_border=true&title_color=2563eb&icon_color=2563eb" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egisnandini675-max&theme=radical&hide_border=true&ring=2563eb&fire=2563eb" width="48%" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=egisnandini675-max&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egisnandini675-max&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
+</p>
 
 <br/>
 
