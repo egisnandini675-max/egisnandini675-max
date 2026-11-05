@@ -2,7 +2,7 @@
 
 # Hi there, I'm Egis Nandini 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Accounting+Student+at+STIE+Sakti+Alam+Kerinci;Google+Student+Ambassador+(Batch+2);AI+Workflows+%26+Digital+Literacy+Enthusiast;Creative+Director+at+Rumah+Jahit+Astro+EG" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Accounting+Student+at+STIE+Sakti+Alam+Kerinci;Google+Student+Ambassador+(Batch+2);AI+Workflows+%26+Digital+Literacy+Enthusiast;Creative+Director+at+Rumah+Jahit+Astro+EG" alt="Typing SVG" />
 
 <br/>
 
@@ -44,8 +44,9 @@
 ### 📈 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=egisnandini675-max&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egisnandini675-max&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=egisnandini675-max&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egisnandini675-max&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Languages" />
 </p>
 
 <br/>
